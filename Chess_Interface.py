@@ -5,7 +5,7 @@ Ths is the main compiling file. It:
 """
 
 import pygame as p
-from Chess import Chess_Logic
+import Chess_Logic
 
 WIDTH = HEIGHT = 600  # 512 & 400 scale nicely with the icons
 BOARD_LENGTH = 8  # 8x8
